@@ -9,11 +9,24 @@ A starter template to build lightning fast websites with [Ghost](https://ghost.o
 **Demo:** https://gatsby.ghost.org/
 
 &nbsp;
-<img width="1470" alt="Screenshot 2024-05-30 at 23 03 42" src="https://github.com/DulyaDeCosta/online-radio-streaming-web-application/assets/148673241/cf287181-6058-4592-a5b1-43a22e3bf590">
-![gatsby-starter-ghost](https://user-images.githubusercontent.com/120485/50913567-8ab8e380-142c-11e9-9e78-de02ded12fc6.jpg)
+
+**Home Page**
+
+<img width="1470" alt="home page" src="https://github.com/DulyaDeCosta/Delicious-diaries/assets/148673241/6a9bdc59-fa9a-436a-91c0-28438c7bd3cb">
 
 &nbsp;
 
+**About Page**
+
+<img width="1470" alt="about page" src="https://github.com/DulyaDeCosta/Delicious-diaries/assets/148673241/31b6ba93-ffda-4620-b9ba-5e36f6182090">
+
+&nbsp;
+
+**Blog Post**
+
+<img width="1470" alt="lunch blog" src="https://github.com/DulyaDeCosta/Delicious-diaries/assets/148673241/5e74c51b-edd0-4eec-a773-4f56a9c12b55">
+
+&nbsp;
 
 # Installing
 
