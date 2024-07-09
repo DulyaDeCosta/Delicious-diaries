@@ -9,7 +9,7 @@ A starter template to build lightning fast websites with [Ghost](https://ghost.o
 **Demo:** https://gatsby.ghost.org/
 
 &nbsp;
-
+<img width="1470" alt="Screenshot 2024-05-30 at 23 03 42" src="https://github.com/DulyaDeCosta/online-radio-streaming-web-application/assets/148673241/cf287181-6058-4592-a5b1-43a22e3bf590">
 ![gatsby-starter-ghost](https://user-images.githubusercontent.com/120485/50913567-8ab8e380-142c-11e9-9e78-de02ded12fc6.jpg)
 
 &nbsp;
