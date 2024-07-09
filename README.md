@@ -1,13 +1,5 @@
 # Delicious Diaries - Gatsby and Ghost Site
 
-"https://github.com/DulyaDeCosta/Delicious-diaries/assets/148673241/28ffc001-58e5-4adb-8a0f-55c4f49d3b98"
-
-
-
-A starter template to build lightning fast websites with [Ghost](https://ghost.org/) & [Gatsby](https://gatsbyjs.org)
-
-**Demo:** https://gatsby.ghost.org/
-
 &nbsp;
 
 **Home Page**
@@ -26,7 +18,16 @@ A starter template to build lightning fast websites with [Ghost](https://ghost.o
 
 <img width="1470" alt="lunch blog" src="https://github.com/DulyaDeCosta/Delicious-diaries/assets/148673241/5e74c51b-edd0-4eec-a773-4f56a9c12b55">
 
+<img width="1470" alt="lunch blog2" src="https://github.com/DulyaDeCosta/Delicious-diaries/assets/148673241/a1e3bc92-d85a-4f40-bb75-58451a1ca5f7">
+
 &nbsp;
+
+# Gatsby and Ghost Starter 
+
+A starter template to build lightning fast websites with [Ghost](https://ghost.org/) & [Gatsby](https://gatsbyjs.org)
+
+**Demo:** https://gatsby.ghost.org/
+
 
 # Installing
 
