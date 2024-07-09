@@ -1,6 +1,6 @@
 # Delicious Diaries - Gatsby and Ghost Site
 
-img width="1470" alt="home page" src="https://github.com/DulyaDeCosta/Delicious-diaries/assets/148673241/28ffc001-58e5-4adb-8a0f-55c4f49d3b98"
+"https://github.com/DulyaDeCosta/Delicious-diaries/assets/148673241/28ffc001-58e5-4adb-8a0f-55c4f49d3b98"
 
 
 
